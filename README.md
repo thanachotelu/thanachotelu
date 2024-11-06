@@ -1,6 +1,7 @@
 # My Profile
 
 Just Gamer who can Coding
+I'm looking something cool! 🎮
 
 | Programming Languages |
 | ----------- |
