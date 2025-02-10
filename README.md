@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Just Gamer who can Coding I'm looking something cool! 🎮
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [keakwanwong\_t@silpakorn.edu](mailto:keakwanwong_t@silpakorn.edu)
+* ✉️  You can contact me at [thanachotekeakwanwong@gmail.com](mailto:thanachotekeakwanwong@gmail.com)
 * 🧠  I'm learning Golang , Ruby
 
 ### Skills
