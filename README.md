@@ -11,6 +11,7 @@ I'm looking something cool! 🎮
 | Python |
 | SQL |
 | Golang |
+| HTML |
 | PHP |
 
 #
