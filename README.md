@@ -16,5 +16,5 @@ I'm looking something cool! 🎮
 
 #
 ## Tasks
-- [ ] MafiaSU-arttoy-app
+- [x] MafiaSU-arttoy-app
 - [x] MafiaSU
